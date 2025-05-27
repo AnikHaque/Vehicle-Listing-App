@@ -13,7 +13,3 @@ A basic PHP-based vehicle listing system using **OOP principles**. This project 
   - Interface (`VehicleActions`)
   - Abstract class (`VehicleBase`)
   - Concrete class (`VehicleManager`)
-
----
-
-## 🗂 Project Structure
