@@ -1,4 +1,3 @@
-<!-- public/views/add.php -->
 <?php
 require_once '../../app/Classes/FileHandler.php';
 require_once '../../app/Classes/VehicleActions.php';
